@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "Quotes-IP1": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Quotes-IP1"
+    }
+  },
+  "defaultProject": "Quotes-IP1",
+  "cli": {
+    "analytics": "65479db9-2790-4b5d-8962-a40a20816d04"
+  }
 }
